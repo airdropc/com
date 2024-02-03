@@ -1,0 +1,4032 @@
+@media (max-width: 1899px) {
+   .helloyBlock .list {
+      padding-left: 14px
+   }
+
+   .lkTopLine .lkRightInfo {
+      right: 0
+   }
+
+   .promoTabs .linksList {
+      flex-wrap: wrap
+   }
+
+   .stateLkUser .col {
+      background: linear-gradient(249.02deg, rgba(52, 49, 102, 0.49) -2.51%, rgba(41, 39, 84, 0.78) 48.84%, rgba(27, 25, 67, 0.71) 100.9%);
+      box-shadow: 0 37px 67px rgba(23, 18, 43, 0.45);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px
+   }
+
+   .stateLkUser .col::before {
+      display: none
+   }
+
+   .stateLkUser .col:nth-child(3) {
+      margin-left: 0;
+      width: 30%
+   }
+
+   .stateLkUser .col:nth-child(2) {
+      margin-left: 0;
+      width: 30%
+   }
+
+   .stateLkUser .col:nth-child(1) {
+      width: 35%
+   }
+
+   .stateLkUser .line {
+      justify-content: space-between
+   }
+}
+
+@media (max-width: 1799px) {
+   .sliderNews .slick-prev {
+      left: auto;
+      right: 140px
+   }
+
+   .sliderNews .slick-next {
+      right: 0;
+      left: auto
+   }
+
+   .sliderNews .slick-dots {
+      right: 11px;
+      width: auto;
+      left: auto
+   }
+
+   .loginPage {
+      padding: 0 15px
+   }
+
+   .loginForm .picture {
+      right: -25px
+   }
+
+   .helloyBlock .list {
+      width: 100%;
+      padding: 0 15px
+   }
+
+   .helloyBlock .item {
+      width: 210px
+   }
+
+   .promoTabs .linksList {
+      justify-content: flex-start;
+      margin: 0 -8px
+   }
+
+   .promoTabs .linksList li {
+      margin: 0 8px 15px !important
+   }
+
+   .investForm .centerBl {
+      width: 410px
+   }
+
+   .investForm .right {
+      width: calc(20% + 95px)
+   }
+
+   .getBlock .item {
+      background: rgba(54, 51, 101, 0.5);
+      border-radius: 10px;
+      width: calc(50% - 5px)
+   }
+
+   .getBlock .item::before {
+      display: none
+   }
+}
+
+@media (max-width: 1699px) {
+   .sliderProspect .slick-dots {
+      margin-top: 0;
+      top: auto;
+      bottom: -14px;
+      position: absolute;
+      width: 100%;
+   }
+
+   .sliderProspect {
+      max-width: 1060px;
+   }
+
+   .sliderWhy {
+      max-width: 1100px;
+   }
+
+   .sliderProspect .item {
+      margin: 0 2px;
+   }
+
+   .sliderProspect .slick-prev,
+   .sliderProspect .slick-next {
+      bottom: -20px;
+   }
+
+   .sliderInvest .item {
+      margin: 0 5px;
+   }
+
+   .sliderInvest .slick-list {
+      left: 0;
+   }
+
+   .sliderInvest {}
+
+   .addWallet.mobile {
+      display: block
+   }
+
+   .sliderNews .slick-prev {
+      left: auto;
+      right: 140px
+   }
+
+   .sliderNews .slick-next {
+      right: 0;
+      left: auto
+   }
+
+   .sliderNews .slick-dots {
+      right: 11px;
+      width: auto;
+      left: auto
+   }
+
+   .loginPage {
+      padding: 0 15px
+   }
+
+   .loginForm .picture {
+      right: -25px
+   }
+
+   .lkTopLine .menuBl .menu {
+      max-width: 630px
+   }
+
+   .searchBlock {
+      display: none
+   }
+
+   .lkTopLine .lkRightInfo {
+      width: 37%;
+      justify-content: flex-end;
+      padding-right: 25px
+   }
+
+   .notificationBl {
+      margin-right: 15px
+   }
+
+   .userBlock {
+      margin-left: 0
+   }
+
+   .userBlock::before {
+      right: -20px
+   }
+
+   .listWallet {
+      max-width: inherit;
+      flex-wrap: nowrap;
+      min-width: 1600px
+   }
+
+   .listWallet .item {
+      width: calc((100% / 6) - 0px)
+   }
+
+   .listWallet .addWallet {
+      display: none
+   }
+
+   .tableOper {
+      width: 100%
+   }
+
+   .operationBl {
+      align-items: flex-start
+   }
+
+   .listPl .item {
+      width: calc((100% / 4) - 15px)
+   }
+
+   .listInvest .item {
+      padding: 70px 20px 10px
+   }
+
+   .listInvest .item .iconBl {
+      left: 20px;
+      top: 33px
+   }
+
+   .listInvest .item .txt {
+      font-size: 15px
+   }
+
+   .stateLkUser .line {
+      flex-wrap: wrap
+   }
+
+   .stateLkUser .col {
+      width: calc(50% - 5px) !important;
+      margin-bottom: 11px;
+      height: 110px
+   }
+
+   .stateLkUser .col:nth-child(3) {
+      width: 100% !important
+   }
+
+   .stateLkUser .line:last-child .col {
+      width: 100% !important
+   }
+
+   .lineRefLvl .list {
+      width: 1700px
+   }
+
+   .lineRefLvl .progBl {
+      width: 1700px
+   }
+
+   .sliderLkPlan .slick-prev {
+      display: none
+   }
+
+   .sliderLkPlan .slick-next {
+      display: none
+   }
+
+   .investForm {
+      flex-wrap: wrap
+   }
+
+   .investForm .left {
+      width: 100%;
+      margin-bottom: 50px
+   }
+
+   .investForm .centerBl {
+      width: calc(50% - 15px)
+   }
+
+   .investForm .right {
+      width: calc(50% - 15px)
+   }
+}
+
+@media (max-width: 1439px) {
+   .investProposal:before {
+      top: 215px;
+      left: 50%;
+      margin-left: -959px
+   }
+
+   .sliderProspect .item {
+      left: 0 !important;
+   }
+
+   .sliderWhy .slick-next,
+   .sliderWhy .slick-prev {
+      bottom: 25px;
+   }
+
+   .sliderWhy .slick-dots {
+      bottom: 30px;
+   }
+
+   .slick-dots {
+      position: absolute;
+      margin-top: 0;
+      width: 100%;
+   }
+
+   .sliderInvest {
+      max-width: 1395px;
+   }
+
+   .sliderInvest .item {
+      margin: 0 2px;
+   }
+
+   .sliderInvest .slick-list {}
+
+   .sliderinvestor .slick-next {
+      left: 135px;
+      margin: 0
+   }
+
+   .sliderinvestor .slick-prev {
+      left: 0;
+      margin: 0
+   }
+
+   .sliderinvestor .slick-dots {
+      left: 10px;
+      margin: 0;
+      width: auto;
+      position: absolute
+   }
+
+   .sliderNews .slick-prev {
+      left: auto;
+      right: 140px
+   }
+
+   .sliderNews .slick-next {
+      right: 0;
+      left: auto
+   }
+
+   .sliderNews .slick-dots {
+      right: 11px;
+      width: auto;
+      left: auto
+   }
+
+   .loginPage {
+      padding: 0 15px
+   }
+
+   .loginForm .picture {
+      right: -25px
+   }
+
+   .lkTopLine {
+      padding: 30px 15px
+   }
+
+   .lkTopLine .logo {
+      left: 6px
+   }
+
+   .lkTopLine .lineMenu {
+      padding-left: 193px
+   }
+
+   .lkTopLine .menuBl .menu {
+      max-width: 590px
+   }
+
+   .userBlock .txt {
+      display: none
+   }
+
+   .operationBl .right .linkMore {
+      position: relative;
+      top: auto;
+      right: auto;
+      margin: 0 auto;
+      width: 100%;
+      display: block;
+      text-align: center;
+      margin-top: 15px;
+      background-position: calc(50% + 70px)
+   }
+
+   .listNewsLk .item {
+      padding: 15px 15px 15px 190px
+   }
+
+   .listNewsLk .item .pic {
+      margin-top: -55px
+   }
+
+   .tableHistory .thead .td {
+      padding: 10px 15px
+   }
+
+   .tableHistory .tbody .td {
+      line-height: 19px;
+      padding: 15px
+   }
+
+   .listPl .item {
+      width: calc((100% / 3) - 12px)
+   }
+
+   .listPl .item label {
+      padding-right: 40px
+   }
+
+   .bannerBl {
+      padding: 15px
+   }
+
+   .bannerBl .banner {
+      width: 250px
+   }
+
+   .bannerBl .inputLine {
+      width: 40%
+   }
+
+   .listInvest .item {
+      display: flex;
+      flex-wrap: wrap;
+      align-content: flex-end
+   }
+
+   .listInvest .item .txt {
+      width: 100%;
+      margin: 5px 0 0
+   }
+
+   .settingsPage .left {
+      width: 100%
+   }
+
+   .settingsPage .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .linePartInfo {
+      flex-wrap: wrap
+   }
+
+   .linePartInfo .left {
+      width: 100%
+   }
+
+   .linePartInfo .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .lineStateLk {
+      flex-wrap: wrap
+   }
+
+   .lineStateLk .left {
+      width: 100%
+   }
+
+   .lineStateLk .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .tablePartners {
+      width: 1275px
+   }
+}
+
+@media (max-width: 1399px) {
+   .sliderNews .slick-list {
+      /*! width: 545px; */
+      right: -12px;
+   }
+
+   .listNewsLk .item .pic {
+      position: relative;
+      left: auto;
+      top: auto;
+      margin: 0;
+      width: 100%;
+      margin-bottom: 15px;
+      margin-top: 0
+   }
+
+   .listNewsLk .item {
+      padding: 15px
+   }
+
+   .tableHistory .tbody .td {
+      padding: 10px
+   }
+
+   .tableHistory .thead .td {
+      padding: 10px
+   }
+
+   .sliderInvest {
+      max-width: calc(75% + 46px);
+   }
+
+   .sliderInvest .slick-list {
+      left: 0;
+   }
+
+   .sliderInvest {}
+
+   .sliderInvest .item {
+      top: 0;
+      margin: 0 10px;
+   }
+
+   .sliderProspect .item {
+      margin: 0 10px;
+   }
+
+   .sliderProspect {
+      max-width: 1100px;
+   }
+
+   .sliderProspect .slick-prev,
+   .sliderProspect .slick-next {
+      bottom: -20px;
+   }
+}
+
+@media (max-width: 1199px) {
+   .container {
+      width: 992px;
+      padding: 0 10px
+   }
+
+   .sliderWhy .slick-dots {
+      bottom: 25px;
+   }
+
+   .sliderInvest {
+      max-width: 910px;
+   }
+
+   .sliderInvest .slick-list {
+      left: 0;
+   }
+
+   .lineMenu::before {
+      bottom: -8px;
+   }
+
+   .menuBl .menu li a {
+      text-align: center;
+      display: block;
+      padding: 11px 0
+   }
+
+   .grettingsMain .cap {
+      max-width: 50%
+   }
+
+   .grettingsMain .text {
+      width: 100%
+   }
+
+   .grettingsMain .txt {
+      max-width: 40%
+   }
+
+   .grettingsMain .lineGrettings {
+      width: 100%
+   }
+
+   .listState {
+      top: 0;
+      padding: 25px 0
+   }
+
+   .listState .item:nth-child(3) {
+      margin-left: 25px
+   }
+
+   .historyGretting {
+      width: 100%
+   }
+
+   .historyGretting .list {
+      overflow: auto;
+      width: 100%
+   }
+
+   .sliderWhy .item {}
+
+   .sliderWhy {
+      max-width: 730px;
+   }
+
+   .sliderWhy .item {}
+
+   .sliderWhy .slick-list {}
+
+   .sliderWhy .slick-prev {
+      bottom: 20px
+   }
+
+   .sliderWhy .slick-next {
+      bottom: 20px
+   }
+
+   .invideBl .list .item {
+      background: linear-gradient(228.14deg, rgba(52, 49, 102, 0.49) -64.63%, rgba(41, 39, 84, 0.78) 17.11%, rgba(27, 25, 67, 0.71) 100%);
+      padding: 75px 20px 15px;
+      width: calc((100% / 3) - 15px);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px
+   }
+
+   .invideBl .list .item::before {
+      display: none
+   }
+
+   .invideBl .num {
+      top: -3px;
+      left: 10px
+   }
+
+   .invideBl .iconBl {
+      left: 50%;
+      top: -50px;
+      margin-left: -72px
+   }
+
+   .aboutMain .left {
+      width: 100%
+   }
+
+   .aboutMain .right {
+      width: 100%;
+      margin-top: 50px;
+      max-width: 100%
+   }
+
+   .videoBl {
+      max-width: 540px;
+      margin: 0 auto;
+      margin-bottom: 35px;
+      left: -12px
+   }
+
+   .docBl {
+      max-width: 530px;
+      margin: 100px auto 0
+   }
+
+   .docBl .docLeft {
+      max-width: 254px
+   }
+
+   .partProgramBl .picture {
+      left: 50%;
+      margin-left: -540px
+   }
+
+   .programBl .left {
+      padding: 22px 11px 22px 28px;
+      width: calc(50% + 140px);
+      margin: 0 auto
+   }
+
+   .programBl .right {
+      width: 100%;
+      margin: 0 auto;
+      max-width: 626px
+   }
+
+   .programBl .desrBot {
+      margin: 25px 0 0;
+      left: 0
+   }
+
+   .faqMain .right {
+      padding: 15px 15px 25px 25px
+   }
+
+   .develBl {
+      margin-top: 21px
+   }
+
+   .develBl .left {
+      right: calc(50% - 65px)
+   }
+
+   .registerNow .btn {
+      width: 100%;
+      max-width: 270px
+   }
+
+   .sliderNewsBig .item {
+      width: 992px
+   }
+
+   .sliderNewsBig .slick-list {
+      left: 0
+   }
+
+   .contactInfo .item {
+      background-color: #201D47;
+      padding: 25px 25px 25px 110px;
+      margin-bottom: 35px
+   }
+
+   .contactInfo .item::before {
+      display: none
+   }
+
+   .contactInfo .item .iconBl {
+      left: 30px
+   }
+
+   .mapBl .map {
+      left: -140px
+   }
+
+   .grettingsPage .pic {
+      right: -80px
+   }
+
+   .aboutText .titleBl {
+      margin-bottom: 30px
+   }
+
+   .aboutText .left {
+      width: 100%;
+      margin-bottom: 30px
+   }
+
+   .aboutText .right {
+      right: auto;
+      margin: 0 auto
+   }
+
+   .offerBl .item {
+      background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.49) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px;
+      padding: 50px 15px 35px
+   }
+
+   .offerBl .item+.item .iconBl {
+      left: 22px;
+      top: 41px
+   }
+
+   .offerBl .item::before {
+      display: none
+   }
+
+   .offerBl .item .iconBl {
+      left: 0;
+      top: 29px
+   }
+
+   .offerBl .item .name {
+      font-size: 18px
+   }
+
+   .modelBl .item .txt {
+      margin-top: 15px
+   }
+
+   .investorsBl .aboutText .pic {
+      position: relative;
+      top: auto;
+      left: -40px;
+      margin-bottom: -80px
+   }
+
+   .investorsBl .investProposal {
+      padding: 50px 0
+   }
+
+   .investorsBl .calcList .calcCol.day .num {
+      left: 30px
+   }
+
+   .joinBl {
+      background-color: rgba(0, 0, 0, .2);
+      margin-top: 50px
+   }
+
+   .joinBl .wrapIn::before {
+      display: none
+   }
+
+   .joinBl .wrapIn {
+      padding: 40px
+   }
+
+   .commission .item {
+      background: #2F2B5A;
+      border-radius: 10px;
+      width: calc(50% - 75px);
+      padding: 30px 20px
+   }
+
+   .commission .item::before {
+      display: none
+   }
+
+   .commission .item .txt {
+      max-width: 100%
+   }
+
+   .commission .circleBlock {
+      top: 50%;
+      margin-top: -60px
+   }
+
+   .loginForm .text .cap {
+      font-size: 50px;
+      line-height: 60px
+   }
+
+   .loginForm .btnLine .btnFaq {
+      padding-right: 10px !important
+   }
+
+   .lkLeft.open:before {
+      -webkit-transform: rotate(180deg);
+      -moz-transform: rotate(180deg);
+      -o-transform: rotate(180deg);
+      transform: rotate(180deg)
+   }
+
+   .lkLeft.open {
+      height: auto
+   }
+
+   .lkLeft:before {
+      content: "";
+      position: absolute;
+      right: 20px;
+      top: 30px;
+      background-image: url(../img/arrow_selectric_blue.png);
+      background-position: center;
+      background-repeat: no-repeat;
+      width: 11px;
+      height: 4px;
+      display: block
+   }
+
+   .lkLeft {
+      width: 100%;
+      height: 65px;
+      overflow: hidden;
+      display: block;
+      padding-right: 50px;
+      cursor: pointer;
+      position: relative
+   }
+
+   .lkRight {
+      width: 100%;
+      padding: 15px 0
+   }
+
+   .lkTopLine .menuBtn {
+      display: block;
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      width: 18px;
+      background: transparent;
+      margin-top: -9px
+   }
+
+   .lkTopLine .langBl {
+      display: flex;
+      right: 50px;
+      top: 6px
+   }
+
+   .lkTopLine .menuBl {
+      display: none;
+      display: none;
+      position: absolute;
+      top: 40px;
+      left: 0;
+      width: 100%;
+      z-index: 11;
+      background: #201D47;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px;
+      padding: 15px
+   }
+
+   .lkTopLine .menuBl .menu {
+      max-width: 100%;
+      flex-wrap: wrap;
+      width: 100%;
+      margin-bottom: 10px
+   }
+
+   .menuBl .menu li {
+      width: 100%;
+      text-align: center
+   }
+
+   .lkTopLine .lkRightInfo {
+      position: relative;
+      width: 100%;
+      right: auto;
+      left: auto;
+      justify-content: center
+   }
+
+   .lkContent {
+      flex-wrap: wrap
+   }
+
+   .menuLk ul li {
+      width: 100% !important
+   }
+
+   .socialLk ul li {
+      width: 100% !important
+   }
+
+   .exitLink {
+      width: 100% !important
+   }
+
+   .langLkBl {
+      width: 100% !important
+   }
+
+   .invisSelectDate {
+      position: relative;
+      left: auto;
+      right: auto;
+      top: auto;
+      margin-top: 25px
+   }
+
+   .tableOper {
+      margin-top: 15px
+   }
+
+   .operationBl {
+      flex-wrap: wrap
+   }
+
+   .operationBl .left {
+      width: 100%
+   }
+
+   .operationBl .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .listNewsLk .item {
+      padding: 15px 15px 20px 210px
+   }
+
+   .listNewsLk .item .pic {
+      position: absolute;
+      left: 15px;
+      width: 180px
+   }
+
+   .filterBl {
+      padding: 15px
+   }
+
+   .tableHistory {
+      width: 1200px
+   }
+
+   .promoTabs .linksList {
+      justify-content: flex-start
+   }
+
+   .promoTabs .linksList li a {
+      width: 161px
+   }
+
+   .bannerBl {
+      flex-wrap: wrap
+   }
+
+   .bannerBl .banner {
+      width: 100%;
+      margin-bottom: 25px
+   }
+
+   .bannerBl .inputLine {
+      width: 70%;
+      margin: 0;
+      margin-top: 0
+   }
+
+   .bannerBl .inputLine input {
+      margin: 0
+   }
+
+   .listInvest .item .txt {
+      font-size: 14px
+   }
+
+   .sliderProspect {
+      max-width: 720px;
+   }
+}
+
+@media (max-width: 991px) {
+   .sliderProspect .slick-dots {
+      bottom: -19px;
+   }
+
+   .sliderInvest {
+      max-width: 600px;
+   }
+
+   .sliderInvest .slick-list {}
+
+   .sliderInvest {}
+
+   .sliderInvest::after {
+      right: -200px;
+   }
+
+   .sliderInvest::before {
+      left: -200px;
+   }
+
+   .sliderNews::before {
+      left: 0;
+   }
+
+   .develBl .left {
+      right: calc(50% - 55px);
+      width: calc(50% + 75px);
+   }
+
+   .sliderNews .slick-list {
+      width: 290px;
+   }
+
+   .develBl .right {
+      width: calc(50% - 90px);
+   }
+
+   .menuBl .menu li.mobile {
+      display: block
+   }
+
+   .lineMenu::before {
+      display: none;
+   }
+
+   .container {
+      width: 768px
+   }
+
+   header .wrapIn {
+      padding: 20px 0
+   }
+
+   .logLinkBl {
+      display: none
+   }
+
+   .menuBl {
+      display: none;
+      position: absolute;
+      top: 40px;
+      left: 0;
+      width: 100%;
+      z-index: 11;
+      background: #201D47;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px;
+      padding: 15px
+   }
+
+   .menuBl .menu {
+      flex-wrap: wrap;
+      width: 100%;
+      margin-bottom: 10px
+   }
+
+   .menuBl .menu li a::before {
+      display: none
+   }
+
+   .menuBl .menu li {
+      width: 100%
+   }
+
+   .menuBl .menu li a {
+      text-align: center;
+      display: block;
+      padding: 11px 0
+   }
+
+   .menuBl .social {
+      justify-content: center
+   }
+
+   .langBl {
+      top: -4px;
+      margin: 0;
+      right: 50px
+   }
+
+   .grettingsMain {
+      padding: 50px 0;
+      text-align: center
+   }
+
+   .grettingsMain .cap {
+      max-width: 100%;
+      font-size: 40px;
+      line-height: 50px
+   }
+
+   .grettingsMain .cap2 {
+      max-width: 100%;
+      font-size: 24px;
+      line-height: 50px
+   }
+
+   .grettingsMain .cap3 {
+      max-width: 100%;
+      font-size: 24px;
+      line-height: 50px
+   }
+
+   .grettingsMain .txt {
+      max-width: 100%
+   }
+
+   .grettingsMain .lineGrettings {
+      flex-direction: column-reverse;
+      display: flex;
+      margin-top: 90px;
+   }
+
+   .grettingsMain .picture {
+      left: 50%;
+      margin-left: -450px;
+      top: 150px;
+   }
+
+   .grettingsMain .btn {
+      margin: 0 auto
+   }
+
+   .listState {
+      justify-content: space-around
+   }
+
+   .listState .item+.item {
+      margin-left: 0
+   }
+
+   .lineGrettings .col {
+      width: calc(50% - 50px);
+   }
+
+   .historyGretting {
+      margin-top: 100px;
+      text-align: left
+   }
+
+   .historyGretting .title {
+      text-align: left
+   }
+
+   .historyGretting .list {
+      width: 1200px
+   }
+
+   .sliderWhy .item {
+      transform: translate(0)
+   }
+
+   .invideBl .list .item {
+      padding-top: 59px
+   }
+
+   .invideBl .num {
+      top: 30px
+   }
+
+   .invideBl .name {
+      display: block
+   }
+
+   .slick-prev {
+      bottom: 20px
+   }
+
+   .slick-next {
+      bottom: 20px
+   }
+
+   .calcProfit .title {
+      margin-bottom: 15px
+   }
+
+   .calcProfit .calcList {
+      padding: 0 15px
+   }
+
+   .calcList .calcCol {
+      background: linear-gradient(225.44deg, rgba(52, 49, 102, 0.49) 0%, rgba(41, 39, 84, 0.78) 31.2%, rgba(27, 25, 67, 0.71) 62.84%);
+      width: 100% !important;
+      margin-bottom: 15px;
+      display: block;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px
+   }
+
+   .calcList .calcCol.plan::before {
+      display: none
+   }
+
+   .calcList .calcCol.sum {
+      padding-left: 44px;
+      padding-right: 15px
+   }
+
+   .calcList .calcCol.sum::before {
+      display: none !important
+   }
+
+   .calcList .calcCol.day {
+      padding-left: 44px;
+      padding-right: 15px
+   }
+
+   .calcList .calcCol.day::before {
+      display: none
+   }
+
+   .calcList .calcCol .num {
+      left: 6px !important
+   }
+
+   .aboutMain .right {
+      max-width: 72%
+   }
+
+   .sliderProspect .item {}
+
+   .sliderProspect .slick-prev {
+      bottom: -25px
+   }
+
+   .sliderProspect .slick-next {
+      bottom: -25px
+   }
+
+   .programBl .left {
+      width: 100%
+   }
+
+   .programBl .right {
+      width: 100%
+   }
+
+   .programBl .text {
+      width: calc(50% - 22px);
+      position: relative;
+      right: 139px
+   }
+
+   .faqMain .right .btnLine {
+      flex-wrap: wrap;
+      margin-top: 44px
+   }
+
+   .faqMain .right .btnLine .btn+.btn {
+      margin-top: 15px
+   }
+
+   .investorSay .left {
+      width: calc(50% - 15px)
+   }
+
+   .footerTop .col:nth-child(1) {
+      padding-right: 50px
+   }
+
+   header .logo {
+      display: block;
+      top: 50%;
+      margin-top: -22px;
+   }
+
+   .searchBl .titleBl .cap {
+      font-size: 40px;
+      line-height: 60px
+   }
+
+   .faqBlock .listLinks li {
+      width: calc((100% / 4) - 10px);
+      \=: 15px 0
+   }
+
+   .faqBlock .listLinks li a {
+      padding: 30px 30px 20px 20px !important
+   }
+
+   .privecyBl .cap {
+      font-size: 50px;
+      line-height: 70px
+   }
+
+   .newsGrettings .pic {
+      right: -50px;
+      z-index: -1
+   }
+
+   .newsList .item {
+      width: calc((100% / 2) - 20px)
+   }
+
+   .sliderNewsBig .item {
+      width: 768px;
+      flex-wrap: wrap
+   }
+
+   .sliderNewsBig .right .new {
+      width: calc(50% - 20px)
+   }
+
+   .sliderNewsBig .item .right {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      margin: 0;
+      margin-top: 25px
+   }
+
+   .sliderNewsBig .item .right .new+.new {
+      margin-top: 0
+   }
+
+   .sliderNewsBig .item .left {
+      width: 100%
+   }
+
+   .contactInfo {
+      padding: 50px 0
+   }
+
+   .contactInfo .titleBl .cap {
+      line-height: 66px
+   }
+
+   .contactInfo .item .txt {
+      font-size: 16px;
+      line-height: 20px
+   }
+
+   .grettingsPage {
+      padding: 70px 0 50px
+   }
+
+   .grettingsPage .pic {
+      top: -160px;
+      right: -180px;
+      background-size: 60%
+   }
+
+   .aboutText .docBl {
+      max-width: 560px
+   }
+
+   .missionsBl {
+      background-color: rgba(0, 0, 0, .2)
+   }
+
+   .missionsBl .wrapIn:before {
+      display: none
+   }
+
+   .missionsBl .wrapIn {
+      padding: 33px 15px
+   }
+
+   .missionsBl .pic {
+      right: -60px;
+      top: 0
+   }
+
+   .offerBl {
+      padding: 30px 0
+   }
+
+   .modelBl .left {
+      width: 100%
+   }
+
+   .modelBl .right {
+      width: 100%;
+      padding-top: 30px
+   }
+
+   .modelBl .item {
+      background: linear-gradient(231.87deg, rgba(52, 49, 102, 0.49) -55.51%, rgba(41, 39, 84, 0.78) 24.83%, rgba(27, 25, 67, 0.71) 106.3%);
+      box-shadow: 20.7171px 36.9949px 66.5908px rgba(23, 18, 43, 0.45)
+   }
+
+   .modelBl .item::before {
+      display: none
+   }
+
+   .investorsBl .investProposal {
+      padding: 50px 0 0
+   }
+
+   .investorsBl .investProposal .calcProfit {
+      max-width: 100%;
+      width: 100%
+   }
+
+   .investorsBl .calcLeft::before {
+      display: none
+   }
+
+   .investorsBl .calcRight::before {
+      display: none
+   }
+
+   .investorsBl .calcLeft {
+      width: 100%;
+      padding: 0
+   }
+
+   .investorsBl .calcRight {
+      width: 100%;
+      margin-top: 65px
+   }
+
+   .joinBl .wrapIn {
+      flex-wrap: wrap;
+      padding: 40px 15px
+   }
+
+   .joinBl .text {
+      max-width: 100%;
+      text-align: center
+   }
+
+   .joinBl .btn {
+      position: relative;
+      top: auto;
+      right: auto;
+      margin: 15px auto 0
+   }
+
+   .loginForm {
+      padding: 50px 0 0
+   }
+
+   .loginForm .wrapIn {
+      flex-wrap: wrap
+   }
+
+   .loginForm .text {
+      width: 100%;
+      display: block;
+      text-align: center
+   }
+
+   .loginForm .picture {
+      position: relative;
+      top: 0;
+      right: auto;
+      left: 50%;
+      background-size: 56%;
+      background-repeat: no-repeat;
+      height: 350px;
+      margin-left: -390px;
+      margin-top: 25px;
+      background-position: center
+   }
+
+   .lkRight {
+      padding: 30px 0 0
+   }
+
+   .lkTopLine .langBl {
+      top: -15px
+   }
+
+   .lkTopLine .menuBl .menu {
+      max-width: 100%
+   }
+
+   .lkTopLine .lkRightInfo {
+      position: relative;
+      width: 100%;
+      right: auto;
+      left: auto;
+      justify-content: center
+   }
+
+   .helloyBlock {
+      flex-wrap: wrap
+   }
+
+   .helloyBlock .left {
+      width: 100%
+   }
+
+   .helloyBlock .right {
+      width: 100%;
+      border-top: solid 1px #302C5E;
+      margin-top: 30px;
+      padding-top: 30px
+   }
+
+   .invisInfo {
+      position: relative;
+      width: 100%;
+      top: auto;
+      right: auto;
+      margin-bottom: 30px
+   }
+
+   .walletBlock {
+      margin-top: 30px
+   }
+
+   .refLinkBl {
+      padding: 15px
+   }
+
+   .profitBl {
+      flex-wrap: wrap
+   }
+
+   .profitBl .left {
+      width: 100%
+   }
+
+   .profitBl .right {
+      width: 100%;
+      padding: 15px 0
+   }
+
+   .tableOper {
+      width: 800px
+   }
+
+   .operationBl {
+      flex-wrap: wrap
+   }
+
+   .operationBl .left {
+      width: 100%
+   }
+
+   .operationBl .right {
+      width: 100%;
+      margin-top: 40px
+   }
+
+   .lkTitlePage .invisInfo {
+      position: relative;
+      top: auto;
+      right: auto;
+      margin-bottom: 30px;
+      width: 100%;
+      border-top: solid 1px #302C5E;
+      margin-top: 30px;
+      padding-top: 30px
+   }
+
+   .filterBl .wrapIn {
+      flex-wrap: wrap
+   }
+
+   .filterBl .inputLine {
+      width: calc((100% / 2) - 15px);
+      margin-bottom: 30px
+   }
+
+   .filterBl .inputLine label {
+      margin-bottom: 15px
+   }
+
+   .filterBl .btn {
+      margin: 0 auto
+   }
+
+   .serchFast {
+      width: 220px
+   }
+
+   .vivodBlock {
+      padding: 0
+   }
+
+   .vivodBlock .left {
+      width: 100%
+   }
+
+   .vivodBlock .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .transferBl {
+      padding: 0
+   }
+
+   .transferBl .right {
+      width: 100%;
+      margin-top: 30px
+   }
+
+   .transferBl .left {
+      width: 100%
+   }
+
+   .promoTabs {
+      padding: 15px
+   }
+
+   .promoTabs .linksList li a {
+      width: 159px
+   }
+
+   .promoBlock .tabsBody {
+      margin: 0
+   }
+
+   .promoBlock {
+      padding: 0
+   }
+
+   .bannerBl .inputLine {
+      width: 100%
+   }
+
+   .bannerBl .inputLine input {
+      height: 70px
+   }
+
+   .bannerBl .btn {
+      margin: 15px auto 0
+   }
+
+   .bannerBl .inputWrap {
+      display: block
+   }
+
+   .investmentBlock .serchFast {
+      width: 100%
+   }
+
+   .listInvest .list {
+      flex-wrap: wrap;
+      margin: 0
+   }
+
+   .listInvest .item {
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 15px 15px 15px 90px
+   }
+
+   .listInvest .item .iconBl {
+      top: 50%
+   }
+
+   .settingsPage {
+      padding: 0
+   }
+
+   .settingsPage .setBl {
+      padding: 15px
+   }
+
+   .settingsPage .bot {
+      padding: 15px
+   }
+
+   .settingsPage .bot .btn {
+      position: relative;
+      top: auto;
+      left: auto;
+      margin: 0 auto;
+      margin-top: 20px
+   }
+
+   .settingsPage .bot .inputLine {
+      width: calc((100% / 2) - 24px)
+   }
+
+   .partnersLkPage {
+      padding: 0
+   }
+
+   .youPrLine {
+      padding: 15px
+   }
+
+   .youPrLine .iconBl {
+      top: 49px;
+      left: 27px
+   }
+
+   .youPrLine .pr {
+      margin-top: 35px;
+      padding-left: 80px
+   }
+
+   .listPart .item {
+      padding: 15px 15px 15px 95px
+   }
+
+   .stateLkUser .col {
+      height: auto;
+      padding: 15px 15px 15px 98px
+   }
+
+   .investBlock {
+      margin: 0
+   }
+
+   .investForm .centerBl {
+      width: 100%
+   }
+
+   .investForm .centerBl .inputLine input {
+      width: calc(50% + 115px)
+   }
+
+   .investForm .right {
+      width: 100%;
+      margin-top: 50px
+   }
+
+   .menuBtn {
+      display: block;
+      position: absolute;
+      right: 10px;
+      top: 50%;
+      width: 18px;
+      background: transparent;
+      margin-top: -7px
+   }
+
+   .sliderNews {
+      width: calc(100% + 20px);
+      position: relative;
+      left: -10px;
+   }
+}
+
+@media (max-width: 767px) {
+   .container {
+      width: 100%
+   }
+
+   .sliderWhy {
+      max-width: 360px;
+   }
+
+   .sliderWhy .slick-list {
+      left: 15px;
+   }
+
+   .sliderNews::before {
+      display: none;
+   }
+
+   .sliderNews .slick-list {
+      padding-left: 15px !important;
+   }
+
+   .aboutText .listLinks .linkMoredoc:last-child {
+      position: relative;
+      left: auto;
+      bottom: auto;
+   }
+
+   .titleBl .cap {
+      font-size: 24px;
+      line-height: 30px
+   }
+
+   .invideBl .list {
+      flex-wrap: wrap
+   }
+
+   .invideBl .list .item {
+      width: 100%;
+      margin-bottom: 0
+   }
+
+   .invideBl .list .item+.item {
+      margin-top: 45px
+   }
+
+   .invideBl .num {
+      left: 50%;
+      margin-left: -44px
+   }
+
+   .invideBl .iconBl {
+      margin-left: -57px
+   }
+
+   .invideBl .name {
+      width: 100%;
+      text-align: center
+   }
+
+   .invideBl .text {
+      width: 100%;
+      max-width: 100%;
+      text-align: center
+   }
+
+   .sliderProspect {
+      max-width: 370px;
+   }
+
+   .aboutMain .right {
+      max-width: 90%
+   }
+
+   .sliderProspect::before {
+      width: 50px
+   }
+
+   .sliderProspect::after {
+      width: 50px
+   }
+
+   .programBl .left {
+      background: linear-gradient(237.08deg, rgba(52, 49, 102, 0.49) 0%, rgba(41, 39, 84, 0.78) 67.44%, rgba(27, 25, 67, 0.71) 135.83%);
+      box-shadow: 20.7171px 36.9949px 66.5908px rgba(23, 18, 43, 0.45);
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      align-items: flex-end
+   }
+
+   .programBl .left::before {
+      display: none
+   }
+
+   .programBl .text {
+      right: 0;
+      width: calc(50% - -68px);
+      bottom: 0;
+      top: auto
+   }
+
+   .faqMain .wrapIn {
+      flex-direction: column-reverse
+   }
+
+   .faqMain .left {
+      width: 100%;
+      padding: 0;
+      margin-top: 40px
+   }
+
+   .faqMain .right {
+      width: 100%;
+      padding: 0
+   }
+
+   .faqMain .right .btnLine {
+      align-items: flex-end;
+      margin-top: 22px
+   }
+
+   .faqMain .right .btnLine .btn {
+      padding: 25px 40px
+   }
+
+   .investorSay .wrapIn {
+      flex-wrap: wrap;
+      align-items: flex-start;
+      align-content: flex-start
+   }
+
+   .investorSay .left {
+      width: 100%;
+      padding: 100px 0 0
+   }
+
+   .investorSay .right {
+      left: 0;
+      position: relative
+   }
+
+   .sliderinvestor .slick-list {
+      padding-bottom: 35px !important;
+      padding-left: 15px !important;
+   }
+
+   .develBl .wrapIn {
+      flex-wrap: wrap;
+      flex-direction: column-reverse
+   }
+
+   .develBl .left {
+      width: 100%;
+      right: auto;
+      position: relative;
+      top: 0
+   }
+
+   .develBl .right {
+      width: 100%;
+      padding: 0
+   }
+
+   .sliderNews .slick-list {
+      right: auto;
+      margin: 0;
+      width: 100%;
+   }
+
+   .registerNow {
+      padding: 0
+   }
+
+   .registerNow .wrapIn {
+      flex-wrap: wrap
+   }
+
+   .registerNow .text {
+      padding: 15px 0 25px
+   }
+
+   footer {
+      margin-top: 30px
+   }
+
+   .faqBlock {
+      padding: 50px 0
+   }
+
+   .faqBlock .listLinks {
+      flex-wrap: wrap
+   }
+
+   .faqBlock .listLinks li {
+      width: calc((100% / 2) - 10px);
+      margin-bottom: 20px !important
+   }
+
+   .faqBlock .tabsBody {
+      margin-top: 0
+   }
+
+   .writeUsBl {
+      flex-wrap: wrap;
+      padding: 25px
+   }
+
+   .writeUsBl .text {
+      max-width: 100%
+   }
+
+   .writeUsBl .btn {
+      margin-top: 25px
+   }
+
+   .privecyBl {
+      padding: 30px 0
+   }
+
+   .privecyBl .wrapIn>.text {
+      margin-top: 50px
+   }
+
+   .privecyBl .textBlock {
+      margin-top: 50px
+   }
+
+   .privecyBl .writeUsBl {
+      margin-top: 20px
+   }
+
+   .newsList .item .name {
+      margin-top: 170px
+   }
+
+   .newsList .item .txt {
+      margin-top: 15px
+   }
+
+   .sliderNewsBig {
+      width: 100%
+   }
+
+   .sliderNewsBig .item {
+      width: 100%;
+      margin: 0 15px;
+      max-width: 768px
+   }
+
+   .sliderNewsBig .slick-list {
+      overflow: hidden
+   }
+
+   .contactInfo .titleBl .cap {
+      font-size: 40px;
+      line-height: 50px
+   }
+
+   .contactInfo .titleBl .desr {
+      margin-top: 15px
+   }
+
+   .contactInfo .list {
+      margin-top: 25px
+   }
+
+   .contactInfo .item {
+      width: 100%;
+      margin-bottom: 5px
+   }
+
+   .contactsForm .left {
+      width: 100%
+   }
+
+   .contactsForm .right {
+      width: 100%;
+      margin-top: 10px
+   }
+
+   .contactsForm .left .inputLine+.inputLine {
+      margin-top: 10px
+   }
+
+   .aboutText {
+      padding: 30px 0 0
+   }
+
+   .missionsBl .wrapIn:before {
+      display: none
+   }
+
+   .missionsBl .wrapIn {
+      padding: 30px
+   }
+
+   .missionsBl .pic {
+      right: -100px;
+      top: auto;
+      bottom: 0
+   }
+
+   .offerBl .list {
+      flex-wrap: wrap
+   }
+
+   .offerBl .item {
+      width: 100%;
+      margin-bottom: 15px
+   }
+
+   .offerBl .item+.item .iconBl {
+      top: 30px
+   }
+
+   .offerBl .item .name {
+      min-height: 50px
+   }
+
+   .offerBl .text {
+      margin-top: 30px
+   }
+
+   .listBonus {
+      flex-wrap: wrap
+   }
+
+   .listBonus .item {
+      width: 100%
+   }
+
+   .commission {
+      flex-wrap: wrap
+   }
+
+   .commission .item {
+      width: 100%
+   }
+
+   .commission .item+.item {
+      margin-top: 25px
+   }
+
+   .commission .circleBlock {
+      display: none
+   }
+
+   .tableInvest {
+      width: 1200px
+   }
+
+   .tableWrapInvest {
+      overflow: auto;
+      width: calc(100% + 25px);
+      left: -12px;
+      position: relative;
+      padding: 0 12px
+   }
+
+   .joinBlack {
+      flex-wrap: wrap;
+      padding: 30px;
+      text-align: center
+   }
+
+   .joinBlack .txt {
+      max-width: 100%
+   }
+
+   .joinBlack .btn {
+      position: relative;
+      margin: 15px auto 0
+   }
+
+   .lkContent {
+      padding: 20px
+   }
+
+   .listWallet {
+      justify-content: space-around
+   }
+
+   .listWallet .addWallet {
+      display: none
+   }
+
+   .refLinkBl {
+      text-align: center
+   }
+
+   .refLinkBl .inputLine {
+      width: 100%
+   }
+
+   .refLinkBl .inputLine input {
+      text-align: center
+   }
+
+   .refLinkBl .btn {
+      margin: 25px auto 0
+   }
+
+   .tableScroll {
+      margin-top: 25px
+   }
+
+   .invisSelectDate {
+      top: auto;
+      width: 100%;
+      justify-content: flex-start;
+      left: auto
+   }
+
+   .tableOper {
+      margin: 0
+   }
+
+   .historyTableWrap .pagination {
+      margin-top: 80px
+   }
+
+   .serchFast {
+      bottom: 99px;
+      width: calc(100% - 50px);
+      right: 30px
+   }
+
+   .promoTabs .linksList li {
+      width: calc(100% / 3 - 16px)
+   }
+
+   .promoTabs .linksList li a {
+      width: 100%
+   }
+
+   .investmentBlock .createLine .btn {
+      margin: 15px auto 0
+   }
+
+   .investmentBlock .createLine .txt {
+      width: 100%
+   }
+
+   .investmentBlock .createLine {
+      flex-wrap: wrap;
+      text-align: center;
+      padding: 15px
+   }
+
+   .investmentBlock .pagination {
+      margin-top: 75px
+   }
+
+   .investmentBlock {
+      padding: 0
+   }
+
+   .linePartInfo .right .refLinkBl {
+      padding-bottom: 15px
+   }
+
+   .lineStateLk ul {
+      padding-right: 0
+   }
+
+   .investForm {
+      padding: 15px
+   }
+
+   .investForm .centerBl .inputLine input {
+      width: calc(50% + 60px)
+   }
+}
+
+@media (max-width: 639px) {
+   .footerBot .social {
+      margin: 0 auto
+   }
+
+   .aboutMain .right {
+      margin-top: 0px;
+   }
+
+   .videoBl img {
+      max-height: 200px;
+   }
+
+   .grettingsMain .picture {
+      top: 130px;
+      background-size: 70%;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin-left: -460px;
+   }
+
+   .listState {
+      margin-top: 300px
+   }
+
+   .stateBlock .tit {
+      width: 100%;
+      display: block;
+   }
+
+   .stateBlock {
+      padding: 15px 5px;
+   }
+
+   .lineGrettings .col:first-child {
+      order: 0;
+   }
+
+   .grettingsMain .lineGrettings {
+      flex-direction: row-reverse;
+      display: flex;
+      justify-content: center;
+   }
+
+   .lineGrettings .col {
+      width: calc(50% - 15px);
+      order: -1;
+   }
+
+   .historyGretting {
+      margin-top: 70px
+   }
+
+   .sliderCurrents::before {
+      width: 50px;
+      display: none
+   }
+
+   .sliderCurrents::after {
+      width: 50px;
+      display: none
+   }
+
+   .sliderWhy .item {}
+
+   .sliderWhy::before {
+      display: none
+   }
+
+   .sliderWhy::after {
+      display: none
+   }
+
+   .sliderInvest {
+      max-width: 310px;
+   }
+
+   .sliderInvest .slick-list {}
+
+   .sliderInvest .slick-dots {
+      display: none !important;
+   }
+
+   .sliderInvest {}
+
+   .aboutMain {
+      padding-bottom: 0
+   }
+
+   .aboutMain .titleBl {
+      margin-bottom: 0
+   }
+
+   .aboutMain .right {
+      max-width: 100%
+   }
+
+   .videoBl {
+      height: 330px;
+      margin-bottom: 0
+   }
+
+   .videoBl .video {
+      width: 100%;
+      background-size: 110%;
+      left: 20px;
+      background-repeat: no-repeat;
+      background-position: center;
+      margin: 0 auto
+   }
+
+   .aboutMain .adressList .line {
+      flex-wrap: wrap
+   }
+
+   .aboutMain .adressList .line .tit {
+      width: 100%
+   }
+
+   .aboutMain .adressList .line .txt {
+      width: 100%;
+      margin-top: 10px
+   }
+
+   .docBl .docLeft {
+      margin: 0 auto;
+      width: calc(50% + 14px)
+   }
+
+   .docBl .doc {
+      right: auto !important;
+      top: auto;
+      position: relative;
+      margin: 20px auto;
+   }
+
+   .programBl .left {
+      padding: 22px 10px 22px 18px
+   }
+
+   .programBl .text {
+      margin-top: 15px;
+      width: 100%
+   }
+
+   .programBl .btn {
+      margin-top: 25px;
+      left: 0
+   }
+
+   .investorSay:before {
+      display: none
+   }
+
+   .sliderinvestor .slick-list {
+      padding-top: 90px !important
+   }
+
+   .sliderinvestor .item {
+      width: 450px !important;
+      background: #2F2B5A;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      -ms-border-radius: 10px;
+      border-radius: 10px;
+      padding: 56px 18px 56px 48px;
+      padding: 50px 15px 15px;
+      -webkit-transform: translate(-26px);
+      -moz-transform: translate(-26px);
+      -o-transform: translate(80px);
+      transform: translate(-26px)
+   }
+
+   .sliderinvestor .item:before {
+      display: none
+   }
+
+   .sliderinvestor .item .circleBlock {
+      left: -10px
+   }
+
+   .sliderinvestor .item .rating {
+      left: -73px
+   }
+
+   .sliderNews .item {}
+
+   .footerTop {
+      flex-wrap: wrap;
+      padding: 25px 0
+   }
+
+   .footerTop .col:nth-child(1) {
+      width: 100%;
+      padding-right: 0;
+      order: 4;
+      margin-top: 25px
+   }
+
+   .footerTop .col:nth-child(2) {
+      width: 50%
+   }
+
+   .footerTop .col:nth-child(3) {
+      width: 50%
+   }
+
+   .footerTop .col:nth-child(4) {
+      width: 100%;
+      margin-top: 25px
+   }
+
+   .footerBot {
+      flex-wrap: wrap;
+      border-top: solid 1px rgba(255, 255, 255, .05);
+      padding: 25px 0
+   }
+
+   .footerBot .info {
+      width: 100%;
+      text-align: center;
+      order: 2;
+      margin-top: 15px;
+      padding: 0
+   }
+
+   .footerBot .info a {
+      display: table;
+      margin: 0 auto
+   }
+
+   .footerBot .info a+a {
+      margin-left: auto;
+      margin-top: 15px
+   }
+
+   .faqPage {
+      padding: 50px 0
+   }
+
+   .writeUsBl .text {
+      text-align: center
+   }
+
+   .writeUsBl .btn {
+      margin: 25px auto 0
+   }
+
+   .privecyBl .cap {
+      font-size: 30px;
+      line-height: 40px
+   }
+
+   .privecyBl .wrapIn>.text {
+      font-size: 14px;
+      margin-top: 25px;
+      line-height: 21px
+   }
+
+   .privecyBl .textBlock {
+      font-size: 14px;
+      margin-top: 25px;
+      line-height: 21px
+   }
+
+   .privecyBl .textBlock+.textBlock {
+      margin-top: 25px
+   }
+
+   .privecyBl .textBlock .name {
+      font-size: 16px
+   }
+
+   .newsGrettings {
+      padding: 25px 0 80px
+   }
+
+   .newsGrettings .cap {
+      text-align: center
+   }
+
+   .newsGrettings .desr {
+      text-align: center;
+      display: block;
+      width: 100%;
+      max-width: 100%
+   }
+
+   .newsGrettings .btn {
+      margin: 260px auto 0
+   }
+
+   .newsGrettings .pic {
+      width: 100%;
+      right: auto;
+      left: 0;
+      background-size: 96%;
+      background-repeat: no-repeat;
+      top: calc(100% + -305px)
+   }
+
+   .newsList {
+      padding: 50px 0 0
+   }
+
+   .newsList .item {
+      width: 100%
+   }
+
+   .pagination ul li:nth-child(4) {
+      margin-right: 5px
+   }
+
+   .pagination ul li:nth-child(4)::before {
+      display: none
+   }
+
+   .sliderNewsBig {
+      padding: 0
+   }
+
+   .sliderNewsBig .new {
+      padding: 15px
+   }
+
+   .sliderNewsBig .item .desr {
+      left: 14px
+   }
+
+   .sliderNewsBig .item .left .new {
+      padding: 15px
+   }
+
+   .sliderNewsBig .item .right .desr {
+      left: 16px
+   }
+
+   .sliderNewsBig .item .name {
+      font-size: 14px;
+      line-height: 17px
+   }
+
+   .sliderNewsBig::before {
+      display: none
+   }
+
+   .sliderNewsBig::after {
+      display: none
+   }
+
+   .contactInfo {
+      padding: 14px 0 50px
+   }
+
+   .contactsForm .form {
+      margin-top: 25px
+   }
+
+   .grettingsPage .titleBl .cap {
+      text-align: center;
+      font-size: 40px;
+      line-height: 50px
+   }
+
+   .grettingsPage .titleBl .desr {
+      text-align: center
+   }
+
+   .grettingsPage .titleBl .btn {
+      margin: 260px auto 0
+   }
+
+   .grettingsPage .pic {
+      width: 100%;
+      right: auto;
+      left: 0;
+      background-size: 70%;
+      background-repeat: no-repeat;
+      top: calc(100% - 477px)
+   }
+
+   .aboutText .bot {
+      margin: 0
+   }
+
+   .investorsBl .aboutText .pic {
+      left: -90px
+   }
+
+   .loginForm .text .cap {
+      font-size: 40px;
+      line-height: 50px
+   }
+
+   .invisInfo ul {
+      flex-wrap: wrap
+   }
+
+   .invisInfo ul li {
+      width: 100%
+   }
+
+   .invisInfo ul li+li {
+      margin-left: 0;
+      margin-top: 15px
+   }
+
+   .walletBlock {
+      padding: 15px
+   }
+
+   .refLinkBl {
+      padding: 35px 15px
+   }
+
+   .refLinkBl .btn {
+      width: 100%;
+      max-width: 224px;
+      margin: 25px auto;
+      padding: 25px 0
+   }
+
+   .listNewsLk .item {
+      padding: 15px
+   }
+
+   .listNewsLk .item .pic {
+      height: 150px;
+      position: relative;
+      left: auto;
+      top: auto;
+      margin: 0;
+      margin-top: 0;
+      margin-bottom: 0;
+      width: 100%;
+      margin-bottom: 15px;
+      margin-top: 0
+   }
+
+   .vivodBlock .left {
+      padding: 15px
+   }
+
+   .listPl .item {
+      width: calc((100% / 2) - 9px)
+   }
+
+   .vivodBlock .right {
+      padding: 15px
+   }
+
+   .transferBl .right {
+      padding: 15px
+   }
+
+   .transferBl .left {
+      padding: 15px
+   }
+
+   .investmentBlock .pagination ul {
+      justify-content: center
+   }
+
+   .settingsPage .btn {
+      padding: 25px 0;
+      width: calc(50% - 15px)
+   }
+
+   .googleBl .googleLine {
+      padding: 165px 0 15px
+   }
+
+   .googleBl .top {
+      flex-wrap: wrap
+   }
+
+   .googleLine .btnLine {
+      flex-wrap: wrap;
+      position: relative
+   }
+
+   .googleLine .btnLine .btn {
+      width: 100%
+   }
+
+   .googleLine .sendSetting {
+      width: 100%;
+      margin-top: 15px
+   }
+
+   .listModalDep .item {
+      width: 100%
+   }
+
+   .modalsContent .caplkTit {
+      font-size: 18px
+   }
+
+   .investBlock {
+      padding-bottom: 15px
+   }
+
+   .sliderLkPlan .item {
+      width: 350px !important;
+      margin: 0 15px;
+      background: #201D47;
+      border-radius: 10px;
+      left: 0;
+      padding: 95px 15px 15px
+   }
+
+   .sliderLkPlan .item::before {
+      display: none
+   }
+
+   .sliderLkPlan .circle {
+      left: 50%;
+      margin-left: -35px;
+      top: 10px
+   }
+
+   .sliderLkPlan .name {
+      width: 100%;
+      text-align: center
+   }
+
+   .sliderLkPlan .txt {
+      width: 100%;
+      text-align: center;
+      max-width: 100%
+   }
+
+   .sliderLkPlan .valueBl {
+      width: 100%;
+      position: relative;
+      bottom: auto;
+      right: auto;
+      margin-top: 15px
+   }
+
+   .sliderLkPlan label {
+      position: relative;
+      margin: 0 auto;
+      top: auto;
+      left: auto;
+      right: auto;
+      bottom: auto;
+      display: table;
+      margin-top: 15px
+   }
+
+   .sliderLkPlan::after {
+      display: none
+   }
+
+   .sliderLkPlan .slick-list {
+      overflow: hidden
+   }
+
+   .investForm .centerBl .inputLine {
+      flex-wrap: wrap
+   }
+
+   .investForm .centerBl .inputLine input {
+      width: 100%
+   }
+
+   .investForm .centerBl .inputLine .btn {
+      width: 100%;
+      margin-top: 15px
+   }
+}
+
+@media (max-width: 479px) {
+   .slick-dots {
+      display: none !important;
+   }
+
+   .sliderNews .slick-list {
+      padding-left: 0 !important;
+   }
+
+   .grettingsMain .lineGrettings {
+
+      margin-top: 242px;
+   }
+
+   .lineGrettings .col:nth-child(5),
+   .lineGrettings .col:nth-child(4),
+   .lineGrettings .col:nth-child(1) {
+      width: 100%;
+   }
+
+   .graficBlock {
+      left: -59px;
+   }
+
+   .sliderNews .item::before {
+      background-image: url("../img/bgnewsslider320.png");
+      width: 320px;
+      height: 499px;
+      left: -15px;
+      top: -30px;
+   }
+
+   .sliderNews .item {
+      width: 234px !important;
+      padding: 31px 20px;
+      margin: 0 10px;
+   }
+
+   .sliderNews .slick-list {}
+
+   .sliderNews {
+      left: 15px;
+      width: calc(100% + 20px);
+   }
+
+   .invideBl {
+      padding: 10px 0
+   }
+
+   .invideBl .iconBl {
+      top: -30px;
+   }
+
+   .titleBl {
+      padding: 0 15px
+   }
+
+   .modelBl .titleBl .cap {
+      font-size: 20px;
+   }
+
+   .lkTitlePage .titleBl {
+      padding: 0
+   }
+
+   .investorSay .titleBl {
+      text-align: center
+   }
+
+   .container {
+      padding: 0 5px
+   }
+
+   .modalsScroll .closeModal {
+      right: 10px;
+      top: 10px
+   }
+
+   header .wrapIn {
+      padding: 30px 0
+   }
+
+   .langBl {
+      right: 44px
+   }
+
+   .grettingsMain {
+      padding: 12px 0
+   }
+
+   .grettingsMain .cap {
+      font-size: 24px;
+      line-height: 29px;
+      padding: 0 15px
+   }
+
+   .grettingsMain .cap2 {
+      font-size: 16px;
+      line-height: 29px;
+      padding: 0 15px
+   }
+
+   .grettingsMain .cap3 {
+      font-size: 14px;
+      line-height: 29px;
+      padding: 0 15px
+   }
+
+
+   .grettingsMain .txt {
+      margin-top: 20px;
+      font-size: 14px;
+      line-height: 22px
+   }
+
+   .grettingsMain .picture {
+      background-size: 120%;
+      margin-left: -140px;
+      top: 220px;
+      width: 320px;
+      height: 350px;
+   }
+
+   .grettingsMain .btn {
+      width: 100%;
+      max-width: 290px;
+      margin: -5px auto 0
+   }
+
+   .listState {
+      margin-top: 166px;
+      justify-content: space-between;
+      padding: 0 11px
+   }
+
+   .listState .item:nth-child(4),
+   .listState .item:nth-child(3) {
+      width: 100%;
+      margin-top: -5px
+   }
+
+   .listState .item {
+      width: calc(50% - 13px);
+      padding: 12px 5px 14px
+   }
+
+   .listState .item .tit {
+      width: 100%;
+      text-align: center;
+      display: block
+   }
+
+   .listState .item .val:before {
+      top: calc(100% + 10px)
+   }
+
+   .listState .item .val {
+      font-size: 14px;
+      line-height: 17px;
+      margin: 9px auto 0;
+      display: table
+   }
+
+   .historyGretting {
+      margin-top: 48px
+   }
+
+   .historyGretting .list {
+      width: 970px
+   }
+
+   .historyGretting .item .pic {
+      left: 7px;
+      margin-top: -16px
+   }
+
+   .historyGretting .item .tit {
+      font-size: 14px
+   }
+
+   .historyGretting .item .val {
+      font-size: 14px
+   }
+
+   .sliderCurrents {
+      margin-top: 10px
+   }
+
+   .whyBlock {
+      padding: 34px 0
+   }
+
+   .titleBl .cap {
+      font-size: 24px;
+      line-height: 29px
+   }
+
+   .titleBl .desr {
+      font-size: 14px;
+      margin-top: 17px;
+      padding: 0 10px
+   }
+
+   .sliderWhy {
+      max-width: 230px;
+   }
+
+   .sliderWhy .slick-list {
+      left: 0;
+   }
+
+   .sliderWhy .item {
+      /* width: 215px!important; */
+      padding: 43px 14px;
+      margin: 0 10px
+   }
+
+   .sliderWhy .slick-prev,
+   .sliderWhy .slick-next {
+      bottom: 0;
+   }
+
+   .sliderWhy .item .txt {
+      /* padding: 21px 5px 21px 21px; */
+      line-height: 18px
+   }
+
+   .sliderWhy .item .name {
+      font-size: 14px;
+      line-height: 17px;
+      display: block
+   }
+
+   .sliderWhy .item::before {
+      background-image: url(../img/bgsliderwhy320.png);
+      width: 317px;
+      height: 328px;
+      left: -50px
+   }
+
+   .circleBlock {
+      left: -1px
+   }
+
+   .invideBl .list {
+      padding: 64px 0 0
+   }
+
+   .invideBl .list .item {
+      padding-top: 58px
+   }
+
+   .invideBl .list .item+.item {
+      margin-top: 64px
+   }
+
+   .invideBl .num {
+      top: -75px;
+      margin-left: -44px;
+      width: 88px;
+      text-align: center
+   }
+
+   .invideBl .name {
+      font-size: 14px
+   }
+
+   .invideBl .text {
+      padding: 19px
+   }
+
+   .investProposal {
+      padding: 18px 0
+   }
+
+   .investProposal:before {
+      top: 350px
+   }
+
+   .sliderInvest::before {
+      display: none
+   }
+
+   .sliderInvest::after {
+      display: none
+   }
+
+   .slick-prev {
+      bottom: 0
+   }
+
+   .slick-next {
+      bottom: 0
+   }
+
+   .calcProfit .title {
+      font-size: 24px;
+      line-height: 29px
+   }
+
+   .aboutMain {
+      padding: 75px 0 0
+   }
+
+   .videoBl {
+      height: 221px;
+      top: 0;
+      left: 0
+   }
+
+   .videoBl .video {
+      top: -98px;
+      left: 11px;
+      background-size: 116%
+   }
+
+   .videoBl .text {
+      font-size: 36px;
+      line-height: 44px
+   }
+
+   .aboutMain .textBlock {
+      margin: 24px 0 0;
+      padding: 0 12px
+   }
+
+   .aboutMain .adressList .line {
+      text-align: center
+   }
+
+   .docBl .docLeft {
+      width: 250px;
+      left: 0
+   }
+
+   .docBl .linkMoredoc {
+      width: 100%;
+      white-space: normal
+   }
+
+   .sliderProspect {
+      max-width: 255px;
+   }
+
+   .sliderProspect .item {
+      /* width: 255px!important; */
+      background: #2F2B5A;
+      border-radius: 10px;
+      height: auto
+   }
+
+   .sliderProspect .item::before {
+      display: none
+   }
+
+   .sliderProspect .item.top::before {
+      display: none
+   }
+
+   .sliderProspect .item.top {
+      top: auto
+   }
+
+   .sliderProspect .item.top .date {
+      top: -30px
+   }
+
+   .sliderProspect .item .date {
+      bottom: -30px
+   }
+
+   .sliderProspect .slick-prev {
+      bottom: 0
+   }
+
+   .sliderProspect .slick-next {
+      bottom: 0
+   }
+
+   .partProgramBl .picture {
+      width: calc(100% + 40px);
+      margin: 0;
+      left: -20px;
+      background-size: contain;
+      height: 150px;
+   }
+
+   .programBl .left {
+      padding: 15px 10px
+   }
+
+   .programBl .title {
+      width: 100%;
+      text-align: center
+   }
+
+   .programBl .text ul {
+      text-align: center
+   }
+
+   .programBl .text {
+      text-align: center
+   }
+
+   .programBl .btn {
+      margin: 15px auto 0
+   }
+
+   .programBl .item {
+      flex-wrap: wrap
+   }
+
+   .programBl .item .tit {
+      width: 100%;
+      text-align: center
+   }
+
+   .programBl .item .val::before {
+      bottom: auto;
+      top: calc(100% + 7px)
+   }
+
+   .programBl .item .val {
+      width: 100%;
+      text-align: center;
+      margin: 15px 0 0
+   }
+
+   .programBl .item .desr {
+      width: 100%;
+      text-align: center;
+      margin-top: 15px
+   }
+
+   .faqMain .right .text {
+      padding: 0 15px
+   }
+
+   .faqMain .right .btnLine {
+      padding: 0 15px
+   }
+
+   .faqList .item .quest {
+      padding-right: 55px
+   }
+
+   .faqList .item .answer {
+      font-size: 14px;
+      line-height: 18px;
+      padding: 20px 18px
+   }
+
+   .investorSay .left {
+      padding: 50px 0 0
+   }
+
+   .investorSay .titleBl .cap {
+      text-align: center
+   }
+
+   .investorSay .left .txt {
+      text-align: center
+   }
+
+   .rating {
+      margin: 10px auto;
+      width: auto;
+      justify-content: center
+   }
+
+   .sliderinvestor .item {
+      width: 235px !important;
+      transform: translate(-120px)
+   }
+
+   .sliderinvestor .item .rating {
+      left: -50px
+   }
+
+   .sliderinvestor .slick-next {
+      right: 15px;
+      bottom: 0;
+      left: auto
+   }
+
+   .sliderinvestor .slick-prev {
+      bottom: 0;
+      left: 15px
+   }
+
+   .sliderinvestor .slick-dots {
+      bottom: 0
+   }
+
+   .develBl .right {
+      padding: 50px 0 0
+   }
+
+   .develBl .titleBl .cap {
+      text-align: center
+   }
+
+   .develBl .socDevel .tit {
+      width: 100%;
+      text-align: center;
+      display: block
+   }
+
+   .develBl .socDevel .social {
+      margin: 26px auto 0;
+      justify-content: center
+   }
+
+   .sliderNews .item {
+      /*! -webkit-transform: translate(-30px); */
+      /*! -moz-transform: translate(45px); */
+      /*! -o-transform: translate(45px); */
+      /*! transform: translate(45px) */
+   }
+
+   .registerNow {
+      padding: 0
+   }
+
+   .registerNow .wrapIn {
+      text-align: center
+   }
+
+   .registerNow .logo {
+      margin: 0 auto
+   }
+
+   .registerNow .btn {
+      margin: 0 auto
+   }
+
+   .footerTop {
+      padding: 25px 9px
+   }
+
+   .footerTop .col:nth-child(1) {
+      margin-top: 32px
+   }
+
+   .footerTop .col:nth-child(4) {
+      margin-top: 37px
+   }
+
+   .footerBot .info {
+      margin-top: 20px
+   }
+
+   .footerBot .info a+a {
+      margin-top: 10px
+   }
+
+   header .logo {
+      width: 152px;
+      margin-top: -17px;
+      left: -4px
+   }
+
+   header .logo img {
+      width: 100%
+   }
+
+   .faqPage {
+      padding: 14px 0
+   }
+
+   .searchBl .titleBl .cap {
+      font-size: 24px;
+      line-height: 29px
+   }
+
+   .searchBl .inputLine {
+      margin: 16px auto 0
+   }
+
+   .searchBl .inputLine input {
+      padding: 0 52px 0 16px;
+      font-size: 14px;
+      height: 60px
+   }
+
+   .searchBl .inputLine .iconBl {
+      right: 15px;
+      bottom: 8px
+   }
+
+   .faqBlock {
+      padding: 23px 0
+   }
+
+   .faqBlock .title {
+      font-size: 18px;
+      line-height: 22px
+   }
+
+   .faqBlock .tabs {
+      margin-top: 33px
+   }
+
+   .faqBlock .listLinks li {
+      width: calc((100% / 2) - 8px);
+      margin-bottom: 20px !important
+   }
+
+   .faqBlock .listLinks li a {
+      padding: 13px 15px 30px !important;
+      text-align: center
+   }
+
+   .faqBlock .listLinks li .iconBl {
+      top: 7px;
+      position: relative
+   }
+
+   .writeUsBl .text {
+      text-align: center
+   }
+
+   .writeUsBl .btn {
+      margin: 37px auto
+   }
+
+   .privecyBl {
+      padding: 14px 0
+   }
+
+   .privecyBl .cap {
+      font-size: 24px;
+      line-height: 29px;
+      text-align: center;
+      width: 100%;
+      max-width: 100%
+   }
+
+   .privecyBl .writeUsBl {
+      padding-bottom: 0
+   }
+
+   .newsGrettings .cap {
+      font-size: 24px;
+      line-height: 29px
+   }
+
+   .newsGrettings .desr {
+      font-size: 14px
+   }
+
+   .newsList .cap {
+      font-size: 24px;
+      line-height: 30px
+   }
+
+   .pagination ul li a {
+      width: 25px;
+      height: 25px;
+      font-size: 12px
+   }
+
+   .pagination ul li:nth-child(4) {
+      margin-right: 5px
+   }
+
+   .pagination ul li:nth-child(4)::before {
+      display: none
+   }
+
+   .sliderNewsBig .right .new {
+      width: calc(50% - 5px)
+   }
+
+   .sliderNewsBig .item .left .new {
+      height: 260px
+   }
+
+   .contactInfo .titleBl .cap {
+      font-size: 24px;
+      line-height: 29px;
+      text-align: center
+   }
+
+   .contactInfo .titleBl .desr {
+      text-align: center
+   }
+
+   .contactInfo .item .tit {
+      font-size: 14px;
+      line-height: 20px
+   }
+
+   .contactInfo .item .txt {
+      font-size: 14px;
+      line-height: 20px
+   }
+
+   .grettingsPage {
+      padding: 14px 0
+   }
+
+   .grettingsPage .titleBl .cap {
+      font-size: 24px;
+      line-height: 29px
+   }
+
+   .grettingsPage .titleBl .btn {
+      margin: 180px auto 0
+   }
+
+   .grettingsPage .pic {
+      top: calc(100% - 428px)
+   }
+
+   .aboutText .textBlock {
+      font-size: 14px
+   }
+
+   .aboutText .textBlock .cap {
+      font-size: 18px;
+      line-height: 24px
+   }
+
+   .aboutText .docBl {
+      margin: 0
+   }
+
+   .videoBl+.docBl {
+      margin-top: 150px;
+   }
+
+   .aboutText .listLinks .linkMoredoc:nth-child(2) {
+      width: 100%
+   }
+
+   .missionsBl .wrapIn {
+      padding: 15px;
+      text-align: center;
+   }
+
+   .missionsBl .cap {
+      font-size: 24px;
+      line-height: 30px
+   }
+
+   .missionsBl .text {
+      max-width: 100%;
+      font-size: 14px;
+      margin-top: 15px
+   }
+
+   .missionsBl .btn {
+      margin: 15px auto 0
+   }
+
+   .missionsBl .pic {
+      display: none
+   }
+
+   .offerBl .item {
+      padding: 100px 15px 35px
+   }
+
+   .offerBl .item+.item .iconBl {
+      top: 20px
+   }
+
+   .offerBl .item .iconBl {
+      top: 1px
+   }
+
+   .offerBl .item .name {
+      padding: 0;
+      min-height: auto
+   }
+
+   .offerBl .item .txt {
+      font-size: 14px;
+      margin-top: 15px
+   }
+
+   .offerBl .text {
+      font-size: 14px
+   }
+
+   .modelBl .textBlock {
+      font-size: 14px
+   }
+
+   .modelBl .item {
+      padding: 15px
+   }
+
+   .modelBl .item .txt {
+      font-size: 14px
+   }
+
+   .investorsBl {
+      padding: 0
+   }
+
+   .investorsBl .investProposal .textBlock {
+      font-size: 14px
+   }
+
+   .investorsBl .calcRight {
+      background: transparent
+   }
+
+   .investorsBl .calcList .calcCol.day {
+      padding: 20px 5px;
+      margin: 0
+   }
+
+   .investPr ul li {
+      width: 100%;
+      padding: 10px 0
+   }
+
+   .investPr ul {
+      width: 100%;
+      flex-wrap: wrap
+   }
+
+   .investPr ul li .pr {
+      text-align: center !important
+   }
+
+   .listBonus .item .txt {
+      font-size: 14px;
+      padding-left: 15px
+   }
+
+   .commission .item .tit {
+      font-size: 20px
+   }
+
+   .joinBlack .txt {
+      font-size: 14px
+   }
+
+   .structuralBl .thead .td {
+      font-size: 14px
+   }
+
+   .structuralBl .tbody .td:nth-child(1) {
+      font-size: 14px;
+      width: 50%
+   }
+
+   .partnersPage .textBlock {
+      font-size: 14px
+   }
+
+   .loginForm .text .cap {
+      font-size: 24px;
+      line-height: 30px
+   }
+
+   .loginForm .text .desr {
+      font-size: 14px;
+      margin-top: 15px
+   }
+
+   .loginForm .picture {
+      background-size: 96%;
+      width: 100%;
+      margin: 0;
+      left: 0
+   }
+
+   .listInput .inputLine {
+      width: 100%
+   }
+
+   .loginForm .btnLine {
+      flex-wrap: wrap
+   }
+
+   .loginForm .btnLine .btn {
+      width: 100%
+   }
+
+   .loginForm .btnLine .btnFaq {
+      margin-left: 0;
+      margin-top: 15px
+   }
+
+   .lkTopLine {
+      padding: 40px 15px
+   }
+
+   .lkTopLine .logo {
+      width: 145px;
+      top: 42px
+   }
+
+   .lkTopLine .logo img {
+      width: 100%
+   }
+
+   .lkTopLine .langBl {
+      right: 34px
+   }
+
+   .balanceInfo {
+      width: 100%;
+      margin-bottom: 15px
+   }
+
+   .lkTopLine .lkRightInfo {
+      flex-wrap: wrap;
+      padding: 0
+   }
+
+   .notificationBl {
+      margin: 0 15px
+   }
+
+   .lkContent {
+      padding: 15px
+   }
+
+   .helloyBlock .left .titleBl {
+      padding: 0
+   }
+
+   .helloyBlock .left .titleBl .cap {
+      font-size: 24px;
+      line-height: 35px
+   }
+
+   .helloyBlock .left .titleBl .desr {
+      padding: 0
+   }
+
+   .listWallet .addWallet {
+      display: none
+   }
+
+   .refLinkBl .inputLine input {
+      font-size: 14px;
+      line-height: 28px
+   }
+
+   .graficBl {
+      padding: 15px
+   }
+
+   .invisSelectDate {
+      left: 0;
+      flex-wrap: wrap;
+      top: 0;
+      text-align: center;
+      position: relative;
+      margin-top: 15px
+   }
+
+   .invisSelectDate .selectric-wrapper {
+      margin: 0 auto;
+      margin-top: 13px
+   }
+
+   .invisSelectDate .tit {
+      width: 100%;
+      margin: 0
+   }
+
+   .rangeLine {
+      padding: 15px
+   }
+
+   .progBl .prog .numStart {
+      left: 6px
+   }
+
+   .progBl .numEnd {
+      right: 5px
+   }
+
+   .operationBl .left {
+      padding: 15px
+   }
+
+   .operationBl .right {
+      padding: 15px
+   }
+
+   .listNewsLk {
+      margin-top: 15px
+   }
+
+   .listNewsLk .item .pic {
+      height: 100px
+   }
+
+   .lkTitlePage .titleBl .cap {
+      font-size: 24px;
+      line-height: 35px
+   }
+
+   .lkTitlePage .titleBl .desr {
+      max-width: 100%;
+      padding: 0
+   }
+
+   .filterBl .inputLine {
+      width: 100%;
+      margin-bottom: 15px
+   }
+
+   .filterBl .btn {
+      width: 100%
+   }
+
+   .historyTableWrap .pagination ul {
+      justify-content: center
+   }
+
+   .serchFast {
+      bottom: 61px
+   }
+
+   .listPl {
+      column-gap: 10px;
+      row-gap: 15px
+   }
+
+   .listPl .item {
+      width: calc((100% / 2) - 5px)
+   }
+
+   .vivodBlock .right .line {
+      flex-wrap: wrap;
+      flex-direction: column-reverse
+   }
+
+   .vivodBlock .right .line .itogSum {
+      width: 100%;
+      height: 70px;
+      margin-top: 0;
+      margin-bottom: 15px
+   }
+
+   .transferBl .right .btn {
+      width: 100%
+   }
+
+   .promoTabs .linksList li {
+      width: calc(100% / 2 - 16px)
+   }
+
+   .bannerBl .banner {
+      margin-bottom: 15px
+   }
+
+   .bannerBl .btn {
+      width: 100%;
+      text-align: center
+   }
+
+   .investmentBlock .serchFast {
+      bottom: 43px
+   }
+
+   .settingsPage .btn {
+      width: 100%;
+      position: relative;
+      top: auto;
+      left: auto;
+      margin: 0 auto;
+      bottom: auto
+   }
+
+   .settingsPage .bot .btn {
+      margin-top: 0
+   }
+
+   .googleBl {
+      padding-bottom: 0
+   }
+
+   .settingsPage .bot .inputLine {
+      width: 100%
+   }
+
+   .youPrLine .pr {
+      margin-top: 11px
+   }
+
+   .stateLkUser .col {
+      width: 100% !important
+   }
+
+   .lineStateLk ul {
+      flex-wrap: wrap;
+      margin: 25px 0
+   }
+
+   .lineStateLk ul li {
+      width: 100%
+   }
+
+   .lineStateLk .left {
+      padding: 15px
+   }
+
+   .lineStateLk .right {
+      padding: 15px
+   }
+
+   .lineRefLvl {
+      padding: 15px
+   }
+
+   .listModalDep .item {
+      padding: 15px
+   }
+
+   .listModalDep .item .pl {
+      font-size: 14px
+   }
+
+   .listModalDep .item .date,
+   .listModalDep .item .txt {
+      font-size: 14px
+   }
+
+   .depModals {
+      padding: 9px 10px
+   }
+
+   .exitModal {
+      padding: 10px 15px
+   }
+
+   .exitModal .lineBtn {
+      flex-wrap: wrap;
+      margin-top: 15px
+   }
+
+   .exitModal .lineBtn .btn {
+      width: 100%;
+      margin-bottom: 15px
+   }
+
+   .sliderLkPlan .item {
+      width: 270px !important
+   }
+
+   .lkTopLine .menuBtn {
+      right: 0
+   }
+
+   .sliderLkPlan .slick-list {
+      padding-left: 9px
+   }
+
+   .sliderLkPlan .slick-prev {
+      display: block !important;
+      left: 10px;
+      right: auto;
+      top: -30px
+   }
+
+   .sliderLkPlan .slick-next {
+      display: block !important;
+      right: 10px;
+      top: -30px
+   }
+
+   .getBlock .item {
+      width: 100%;
+      padding: 15px 15px 15px 95px
+   }
+
+   .tableScroll {
+      margin-top: 0
+   }
+}
+
+@media (min-width: 992px) {
+   header .menuBl {
+      display: flex !important
+   }
+}
+
+@media (min-width: 1200px) {
+   .lkTopLine .menuBl {
+      display: flex !important
+   }
+}
